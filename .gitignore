@@ -9,6 +9,9 @@ vendor
 
 # Development-related files #
 .idea
-.vscode
 deploy*.sh
 /.php-cs-fixer.cache
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
